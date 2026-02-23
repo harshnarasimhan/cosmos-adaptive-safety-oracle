@@ -95,7 +95,16 @@ SCENARIO 2: Multiple Pedestrians (SECOND TIME)
 ├─ Time: ~0.2 seconds ⚡
 └─ 1500x FASTER!
 ```
+## 💻 Try It Yourself
 
+**Interactive Demo**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qQw4LVRbH9kI3PMs4_toaZZP0P_hDObj#scrollTo=-mKgblfiw3CY)
+
+Experience the adaptive learning system firsthand:
+1. Click the badge above
+2. Run all cells
+3. Watch the system learn from its first encounter
+4. See it apply the rule instantly on the second encounter
+5. Try your own driving scene images!
 ---
 
 ## 💡 Key Innovation
