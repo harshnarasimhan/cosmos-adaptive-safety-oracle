@@ -175,3 +175,37 @@ NVIDIA Cosmos Developer Competition 2026
 
 **Total Development Time**: 7 days  
 **Key Learning**: Real-time rule generation works! 🚀
+
+---
+
+## 📚 Additional Documentation
+
+- **[System Architecture](ARCHITECTURE.md)** - Technical design and data flow
+- **[Safety Rulebook](safety_rulebook_final.json)** - Generated rules (JSON)
+- **[Learning History](complete_learning_data.json)** - Complete experimental data
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository**: [github.com/harshnarasimhan/cosmos-adaptive-safety-oracle](https://github.com/YOUR-USERNAME/cosmos-adaptive-safety-oracle)
+- **Demo Video**: [Coming soon]
+
+---
+
+## 🙏 Acknowledgments
+
+Built for the **NVIDIA Cosmos Developer Competition 2026**.
+
+Special thanks to NVIDIA for Cosmos Reason2-2B and the opportunity to explore real-time adaptive learning in autonomous systems.
+
+---
+
+⭐ **If you found this interesting, please star the repo!**
+```
+
+---
+
+Your repository URL:
+```
+https://github.com/harshnarasimhan/cosmos-adaptive-safety-oracle
