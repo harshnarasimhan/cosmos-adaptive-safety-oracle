@@ -1,0 +1,26 @@
+[
+  {
+    "trigger": "multiple pedestrians",
+    "action": "Maintain a safe distance, reduce speed to 10 mph, and be prepared to stop if the person moves closer",
+    "confidence": 0.7,
+    "created": 1771882525.8175218,
+    "applied_count": 3,
+    "success_rate": 0.0
+  },
+  {
+    "trigger": "single pedestrian",
+    "action": "Maintain heightened awareness, avoid sudden maneuvers, and prepare for potential unexpected movements",
+    "confidence": 0.7,
+    "created": 1771882834.6960404,
+    "applied_count": 1,
+    "success_rate": 0.0
+  },
+  {
+    "trigger": "bicycle on road",
+    "action": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+    "confidence": 0.7,
+    "created": 1771883144.3152695,
+    "applied_count": 6,
+    "success_rate": 0.0
+  }
+]

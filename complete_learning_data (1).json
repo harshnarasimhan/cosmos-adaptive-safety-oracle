@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "total_scenarios": 16,
+    "total_rules": 3,
+    "model_used": "nvidia/Cosmos-Reason2-2B",
+    "timestamp": "2026-02-23 22:05:17"
+  },
+  "rules": [
+    {
+      "trigger": "multiple pedestrians",
+      "action": "Maintain a safe distance, reduce speed to 10 mph, and be prepared to stop if the person moves closer",
+      "confidence": 0.7,
+      "created": 1771882525.8175218,
+      "applied_count": 3,
+      "success_rate": 0.0
+    },
+    {
+      "trigger": "single pedestrian",
+      "action": "Maintain heightened awareness, avoid sudden maneuvers, and prepare for potential unexpected movements",
+      "confidence": 0.7,
+      "created": 1771882834.6960404,
+      "applied_count": 1,
+      "success_rate": 0.0
+    },
+    {
+      "trigger": "bicycle on road",
+      "action": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "confidence": 0.7,
+      "created": 1771883144.3152695,
+      "applied_count": 6,
+      "success_rate": 0.0
+    }
+  ],
+  "learning_history": [
+    {
+      "scenario_id": "Pedestrians_1",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance, reduce speed to 10 mph, and be prepared to stop if the person moves closer",
+      "learning_status": "GENERATED_NEW_RULE",
+      "fast_path": false
+    },
+    {
+      "scenario_id": "Pedestrians_2",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance, reduce speed to 10 mph, and be prepared to stop if the person moves closer",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Construction",
+      "is_edge_case": true,
+      "applied_rule": "Maintain heightened awareness, avoid sudden maneuvers, and prepare for potential unexpected movements",
+      "learning_status": "GENERATED_NEW_RULE",
+      "fast_path": false
+    },
+    {
+      "scenario_id": "Cyclist",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "GENERATED_NEW_RULE",
+      "fast_path": false
+    },
+    {
+      "scenario_id": "Parking",
+      "is_edge_case": false,
+      "learning_status": "NORMAL",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Dog_Walking",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Street_Market",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance, reduce speed to 10 mph, and be prepared to stop if the person moves closer",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Motorcycle",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Rainy_Night",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Wildlife",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Downtown",
+      "is_edge_case": false,
+      "learning_status": "NORMAL",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Bridge",
+      "is_edge_case": true,
+      "applied_rule": "Maintain heightened awareness, avoid sudden maneuvers, and prepare for potential unexpected movements",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "Rural_Road",
+      "is_edge_case": false,
+      "learning_status": "NORMAL",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "NEW: Dog",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "KNOWN: Pedestrians",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance, reduce speed to 10 mph, and be prepared to stop if the person moves closer",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    },
+    {
+      "scenario_id": "KNOWN: Cyclist",
+      "is_edge_case": true,
+      "applied_rule": "Maintain a safe distance of at least 10 meters from the bicycle to avoid potential collision",
+      "learning_status": "APPLIED_EXISTING_RULE",
+      "fast_path": true
+    }
+  ]
+}
