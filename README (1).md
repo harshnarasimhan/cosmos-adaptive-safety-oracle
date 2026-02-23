@@ -97,7 +97,7 @@ SCENARIO 2: Multiple Pedestrians (SECOND TIME)
 ```
 ## 💻 Try It Yourself
 
-**Interactive Demo**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qQw4LVRbH9kI3PMs4_toaZZP0P_hDObj#scrollTo=-mKgblfiw3CY)
+**Interactive Demo**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qQw4LVRbH9kI3PMs4_toaZZP0P_hDObj?usp=sharing)
 
 Experience the adaptive learning system firsthand:
 1. Click the badge above
