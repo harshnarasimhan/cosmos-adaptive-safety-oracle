@@ -188,7 +188,7 @@ NVIDIA Cosmos Developer Competition 2026
 
 ## 🔗 Links
 
-- **GitHub Repository**: [github.com/harshnarasimhan/cosmos-adaptive-safety-oracle](https://github.com/YOUR-USERNAME/cosmos-adaptive-safety-oracle)
+- **GitHub Repository**: [github.com/harshnarasimhan/cosmos-adaptive-safety-oracle](https://github.com/harshnarasimhan/cosmos-adaptive-safety-oracle)
 - **Demo Video**: [Coming soon]
 
 ---
@@ -205,7 +205,3 @@ Special thanks to NVIDIA for Cosmos Reason2-2B and the opportunity to explore re
 ```
 
 
-
-Your repository URL:
-```
-https://github.com/harshnarasimhan/cosmos-adaptive-safety-oracle
