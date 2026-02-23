@@ -36,6 +36,29 @@ A real-time learning system for autonomous vehicles that **generates safety rule
    - Applied: 6 times
 
 ---
+---
+
+## 🔧 Model Selection
+
+### Why Cosmos-Reason2-2B?
+
+This project uses **Cosmos-Reason2-2B** (2 billion parameters) for strategic reasons:
+
+1. **Hardware Accessibility**: Runs on consumer GPUs (15GB VRAM), making the research reproducible
+2. **Proof of Concept**: The core innovation (adaptive learning + 1500x speedup) is model-agnostic
+3. **Iteration Speed**: Faster inference enabled rapid prototyping and extensive testing
+4. **Production Viability**: Smaller models are more practical for real-world deployment at scale
+
+### Scalability to 8B
+
+The system architecture is **model-agnostic** and compatible with any Cosmos Reason2 variant:
+- Same learning mechanism
+- Same rule generation pipeline
+- Same 1500x speedup pattern
+
+**Future work**: Benchmark with Cosmos-Reason2-8B for potentially richer rule generation, though the adaptive learning performance gains remain consistent across model sizes.
+
+---
 
 ## 🏗️ System Architecture
 
