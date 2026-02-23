@@ -1,4 +1,5 @@
 # Adaptive Safety Oracle
+![Learning Performance](assets/learning_performance.png)
 ### NVIDIA Cosmos Reason2 Developer Competition Submission
 
 ## 🎯 Innovation
