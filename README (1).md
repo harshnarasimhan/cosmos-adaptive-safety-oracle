@@ -112,8 +112,6 @@ Experience the adaptive learning system firsthand:
 
 Upload any driving scene image and see the adaptive safety system in action!
 
----
-
 ### Demo Features:
 - 🔍 Real-time object detection (YOLOv8)
 - 🎯 Instant rule application (~0.2s)
@@ -121,6 +119,8 @@ Upload any driving scene image and see the adaptive safety system in action!
 - 💡 See how 1500x speedup works
 
 *Note: Demo uses pre-generated rules from actual Cosmos Reason2-2B outputs for speed on free hardware.*
+
+---
 
 ## 💡 Key Innovation
 
