@@ -105,7 +105,22 @@ Experience the adaptive learning system firsthand:
 3. Watch the system learn from its first encounter
 4. See it apply the rule instantly on the second encounter
 5. Try your own driving scene images!
+
+## 🌐 Live Demo
+
+**Try it live:** [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Harshi2007/cosmos-adaptive-oracle)
+
+Upload any driving scene image and see the adaptive safety system in action!
+
 ---
+
+### Demo Features:
+- 🔍 Real-time object detection (YOLOv8)
+- 🎯 Instant rule application (~0.2s)
+- 📖 View complete learned rulebook
+- 💡 See how 1500x speedup works
+
+*Note: Demo uses pre-generated rules from actual Cosmos Reason2-2B outputs for speed on free hardware.*
 
 ## 💡 Key Innovation
 
